@@ -1,0 +1,92 @@
+Physics reference document
+
+1. Units
+
+Length: count of block (e.g. 12 Block length). 1 Block = 2 Feet = 30 Centimeter
+Weight: Kilogram.
+
+Area: 1 Block area = 0.09 m^2
+volume: 1 Block volume = 0.027 m^3 = 27 L
+
+2. Physical properties of game item
+Most of weapon's data values were taken from Dwarffortress.
+Material properties were taken from Wikipedia and Wollfram|Alpha.
+2-1 Tools
+
+1. Pick
+tool = true
+weapon = true
+battle = false
+Contact area: 0.0025 m^2
+Kinetic energy: 0.5*0.5 kg*2^2 (velocities are (dwarffortress' unit)/1000)
+
+Power of swinging pick: (Kinetic energy) / (contact area)
+(note: sand, dirt can be also collected with pick.)
+
+
+2. Axe
+tool = true
+weapon = true
+battle = false
+Contact area: 0.0075 m^2
+Kinetic energy: 0.5*0.8 kg*1.25^2
+
+Power: (Kinetic energy) / (contact area / 1 m^2)
+
+
+3. Hammer
+tool = true
+weapon = false
+battle = false
+Desc: Used for remove furniture, background wall and glass.
+
+Contact area: 0.01 m^2
+Kinetic energy: 0.5*0.4 kg*2^2
+
+Power: (Kinetic energy) / (contact area)
+
+(BIGNOTE: standard mass is mass of IRON (which is 1.))
+(BIGNOTE2: standard sharpness(contact area) is edge of IRON (which is lovely number of 1.). Therefore, contact area is defined as: (real contact area)/(edge of material) )
+
+2-2 Materials
+
+1. Iron
+blunt = true
+edge = true
+Molar mass: 1 (default)
+Edge: 1 (default)
+
+
+
+2. Gold
+blunt = true
+edge = false
+Molar mass: 3.5 ( 196.967/55.845 )
+Edge: 0.4 ( Vickers hardness 216 MPa/608 MPa )
+
+
+
+
+3. Stone
+blunt = true
+edge = false
+Molar mass: 0.5 ( 28.0855/55.845, Used silicon )
+Edge: 0.7 (Mohs hardness 3+, ( Mohs 1 (47) )*10 )
+
+
+
+
+4. Adamantine
+blunt = false
+edge = true
+Molar mass: 0.4 ( 1 m^3 of diamond (3500 kg) / same volume of iron (7870 kg) )
+Edge: 10 ( Dwarfforess' Adamintine max edge / Iron )
+
+
+2-3 Weapons!
+
+1. Long sword
+blunt = false
+edge = true
+Contact area: 0.0024 m^2
+Kinetic energy: 0.5 * 0.7 kg * 1^2

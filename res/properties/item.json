@@ -1,0 +1,2990 @@
+{
+    "Sample": [
+        {
+            "name": "itemtype",
+            "value": "****"
+        },
+        {
+            "name": "material",
+            "value": "****"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "****"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "256": [
+        {
+            "name": "defencePoint",
+            "value": 1
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "copper"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Copper helmet"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "257": [
+        {
+            "name": "defencePoint",
+            "value": 2
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "iron"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Iron helmet"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "258": [
+        {
+            "name": "defencePoint",
+            "value": 4
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "cobalt"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Cobalt helmet"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "259": [
+        {
+            "name": "defencePoint",
+            "value": 8
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "mithril"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Mithril helmet"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "260": [
+        {
+            "name": "defencePoint",
+            "value": 16
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "adamantine"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Adamantine helmet"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "261": [
+        {
+            "name": "defencePoint",
+            "value": 2
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "copper"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Copper breastplate"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "262": [
+        {
+            "name": "defencePoint",
+            "value": 4
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "iron"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Iron breastplate"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "263": [
+        {
+            "name": "defencePoint",
+            "value": 8
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "cobalt"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Cobalt breastplate"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "264": [
+        {
+            "name": "defencePoint",
+            "value": 16
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "mithril"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Mithril chainmail"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "265": [
+        {
+            "name": "defencePoint",
+            "value": 32
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "adamantine"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Adamantine breastplate"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "266": [
+        {
+            "name": "defencePoint",
+            "value": 1
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "copper"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Copper greaves"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "267": [
+        {
+            "name": "defencePoint",
+            "value": 2
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "iron"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Iron greaves"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "268": [
+        {
+            "name": "defencePoint",
+            "value": 4
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "cobalt"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Cobalt greaves"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "269": [
+        {
+            "name": "defencePoint",
+            "value": 8
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "mithril"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Mithril greaves"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "270": [
+        {
+            "name": "defencePoint",
+            "value": 16
+        },
+        {
+            "name": "itemtype",
+            "value": "armour"
+        },
+        {
+            "name": "material",
+            "value": "adamantine"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Adamantine greaves"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "271": [
+        {
+            "name": "itemtype",
+            "value": "sword"
+        },
+        {
+            "name": "material",
+            "value": "copper"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Copper broadsword"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "272": [
+        {
+            "name": "itemtype",
+            "value": "hammer"
+        },
+        {
+            "name": "material",
+            "value": "copper"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Copper hammer"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "273": [
+        {
+            "name": "itemtype",
+            "value": "pick"
+        },
+        {
+            "name": "material",
+            "value": "copper"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Copper pick"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "274": [
+        {
+            "name": "itemtype",
+            "value": "axe"
+        },
+        {
+            "name": "material",
+            "value": "copper"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Copper axe"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "275": [
+        {
+            "name": "itemtype",
+            "value": "hoe"
+        },
+        {
+            "name": "material",
+            "value": "copper"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Copper hoe"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "276": [
+        {
+            "name": "itemtype",
+            "value": "sword"
+        },
+        {
+            "name": "material",
+            "value": "iron"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Iron broadsword"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "277": [
+        {
+            "name": "itemtype",
+            "value": "hammer"
+        },
+        {
+            "name": "material",
+            "value": "iron"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Iron broadsword"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "278": [
+        {
+            "name": "itemtype",
+            "value": "pick"
+        },
+        {
+            "name": "material",
+            "value": "iron"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Iron pick"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "279": [
+        {
+            "name": "itemtype",
+            "value": "axe"
+        },
+        {
+            "name": "material",
+            "value": "iron"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Iron axe"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "280": [
+        {
+            "name": "itemtype",
+            "value": "hoe"
+        },
+        {
+            "name": "material",
+            "value": "iron"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Iron hoe"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "281": [
+        {
+            "name": "itemtype",
+            "value": "sword"
+        },
+        {
+            "name": "material",
+            "value": "steel"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Steel broadsword"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "282": [
+        {
+            "name": "itemtype",
+            "value": "hammer"
+        },
+        {
+            "name": "material",
+            "value": "steel"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Steep hammer"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "283": [
+        {
+            "name": "itemtype",
+            "value": "pick"
+        },
+        {
+            "name": "material",
+            "value": "steel"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Steel pick"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "284": [
+        {
+            "name": "itemtype",
+            "value": "axe"
+        },
+        {
+            "name": "material",
+            "value": "steel"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Steel axe"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "285": [
+        {
+            "name": "itemtype",
+            "value": "hoe"
+        },
+        {
+            "name": "material",
+            "value": "steel"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Steel hoe"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "286": [
+        {
+            "name": "itemtype",
+            "value": "pick"
+        },
+        {
+            "name": "material",
+            "value": "cobalt"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Cobalt drill"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "287": [
+        {
+            "name": "itemtype",
+            "value": "saw"
+        },
+        {
+            "name": "material",
+            "value": "cobalt"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Cobalt chainsaw"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "288": [
+        {
+            "name": "itemtype",
+            "value": "pick"
+        },
+        {
+            "name": "material",
+            "value": "mithril"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Mithril drill"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "289": [
+        {
+            "name": "itemtype",
+            "value": "saw"
+        },
+        {
+            "name": "material",
+            "value": "mithril"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Mithril chainsaw"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "290": [
+        {
+            "name": "itemtype",
+            "value": "pick"
+        },
+        {
+            "name": "material",
+            "value": "adamantine"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Adamantine drill"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "291": [
+        {
+            "name": "itemtype",
+            "value": "saw"
+        },
+        {
+            "name": "material",
+            "value": "adamantine"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Adamantine chainsaw"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "292": [
+        {
+            "name": "currencyTier",
+            "value": 1
+        },
+        {
+            "name": "itemtype",
+            "value": "currency"
+        },
+        {
+            "name": "material",
+            "value": "copper"
+        },
+        {
+            "name": "maxStack",
+            "value": 100
+        },
+        {
+            "name": "name",
+            "value": "Copper coin"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "293": [
+        {
+            "name": "currencyTier",
+            "value": 2
+        },
+        {
+            "name": "itemtype",
+            "value": "currency"
+        },
+        {
+            "name": "material",
+            "value": "iron"
+        },
+        {
+            "name": "maxStack",
+            "value": 100
+        },
+        {
+            "name": "name",
+            "value": "Iron coin"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "294": [
+        {
+            "name": "currencyTier",
+            "value": 3
+        },
+        {
+            "name": "itemtype",
+            "value": "currency"
+        },
+        {
+            "name": "material",
+            "value": "silver"
+        },
+        {
+            "name": "maxStack",
+            "value": 100
+        },
+        {
+            "name": "name",
+            "value": "Silver coin"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "295": [
+        {
+            "name": "currencyTier",
+            "value": 4
+        },
+        {
+            "name": "itemtype",
+            "value": "currency"
+        },
+        {
+            "name": "material",
+            "value": "gold"
+        },
+        {
+            "name": "maxStack",
+            "value": 100
+        },
+        {
+            "name": "name",
+            "value": "Gold coin"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "296": [
+        {
+            "name": "itemtype",
+            "value": "inorganic"
+        },
+        {
+            "name": "material",
+            "value": "copper"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Copper bar"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "297": [
+        {
+            "name": "itemtype",
+            "value": "inorganic"
+        },
+        {
+            "name": "material",
+            "value": "iron"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Iron bar"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "298": [
+        {
+            "name": "itemtype",
+            "value": "inorganic"
+        },
+        {
+            "name": "material",
+            "value": "silver"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Silver bar"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "299": [
+        {
+            "name": "itemtype",
+            "value": "inorganic"
+        },
+        {
+            "name": "material",
+            "value": "gold"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Gold bar"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "300": [
+        {
+            "name": "itemtype",
+            "value": "inorganic"
+        },
+        {
+            "name": "material",
+            "value": "cobalt"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Cobalt bar"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "301": [
+        {
+            "name": "itemtype",
+            "value": "inorganic"
+        },
+        {
+            "name": "material",
+            "value": "mithril"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Mithril bar"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "302": [
+        {
+            "name": "itemtype",
+            "value": "inorganic"
+        },
+        {
+            "name": "material",
+            "value": "adamantine"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Adamantine bar"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "303": [
+        {
+            "name": "itemtype",
+            "value": "igniter"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Firestarter"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "304": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Flint"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "305": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Coal"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "306": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "String"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "307": [
+        {
+            "name": "blockSpawn",
+            "value": "wheat0"
+        },
+        {
+            "name": "cropType",
+            "value": "wheat"
+        },
+        {
+            "name": "itemtype",
+            "value": "seed"
+        },
+        {
+            "name": "material",
+            "value": "organic"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Wheat seed"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "308": [
+        {
+            "name": "itemtype",
+            "value": "food"
+        },
+        {
+            "name": "healthPoint",
+            "value": 30
+        },
+        {
+            "name": "material",
+            "value": "organic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Apple"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "309": [
+        {
+            "name": "itemtype",
+            "value": "food"
+        },
+        {
+            "name": "healthPoint",
+            "value": 500
+        },
+        {
+            "name": "material",
+            "value": "organic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Golden apple"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": "Haste 4:00\\nSwiftness 4:00"
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "310": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "organic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Egg"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "311": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Sugar"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "312": [
+        {
+            "name": "itemtype",
+            "value": "ammo"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Snowball"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "313": [
+        {
+            "name": "itemtype",
+            "value": "gun"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Bow"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": true
+        }
+    ],
+    "314": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Feather"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "315": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "organic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Wheat"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "316": [
+        {
+            "name": "blockSpawn",
+            "value": "Painting"
+        },
+        {
+            "name": "blockSpawnSize",
+            "value": 1
+        },
+        {
+            "name": "itemtype",
+            "value": "object"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Painting"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "317": [
+        {
+            "name": "blockSpawn",
+            "value": "Reed"
+        },
+        {
+            "name": "cropType",
+            "value": "reed"
+        },
+        {
+            "name": "itemtype",
+            "value": "seed"
+        },
+        {
+            "name": "material",
+            "value": "organic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Reed"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "318": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Bone"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "319": [
+        {
+            "name": "blockSpawn",
+            "value": "Cake"
+        },
+        {
+            "name": "blockSpawnSize",
+            "value": 1
+        },
+        {
+            "name": "itemtype",
+            "value": "object"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Cake"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "320": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Gel"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "321": [
+        {
+            "name": "itemtype",
+            "value": "ammo"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Arrow"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "322": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Quiver"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "323": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Gunpowder"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": "Warning: Gunpowders are very easy to explode."
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "324": [
+        {
+            "name": "itemtype",
+            "value": "food"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Bread"
+        },
+        {
+            "name": "nameEditable",
+            "value": true
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "325": [
+        {
+            "name": "blockSpawn",
+            "value": "Sign"
+        },
+        {
+            "name": "blockSpawnSize",
+            "value": 1
+        },
+        {
+            "name": "itemtype",
+            "value": "object"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Sign"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "326": [
+        {
+            "name": "blockSpawn",
+            "value": "doorTop"
+        },
+        {
+            "name": "blockSpawnBottom",
+            "value": "doorBottom"
+        },
+        {
+            "name": "blockSpawnSize",
+            "value": 2
+        },
+        {
+            "name": "itemtype",
+            "value": "object"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Wooden door"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": "Can be broken by continuous attack"
+        },
+        {
+            "name": "tooltipEditable",
+            "value": true
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "327": [
+        {
+            "name": "blockSpawn",
+            "value": "ironDoorTop"
+        },
+        {
+            "name": "blockSpawnBottom",
+            "value": "ironDoorBottom"
+        },
+        {
+            "name": "blockSpawnSize",
+            "value": 2
+        },
+        {
+            "name": "itemtype",
+            "value": "object"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Iron door"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": "Projectiles may pass through"
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "328": [
+        {
+            "name": "blockSpawn",
+            "value": "bedLeft"
+        },
+        {
+            "name": "blockSpawnRight",
+            "value": "bedRight"
+        },
+        {
+            "name": "blockSpawnSize",
+            "value": 2
+        },
+        {
+            "name": "itemtype",
+            "value": "object"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Bed"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "329": [
+        {
+            "name": "infoShow",
+            "value": "[[%d from %s]],posX,eastWest"
+        },
+        {
+            "name": "infoShowGUI",
+            "value": false
+        },
+        {
+            "name": "itemtype",
+            "value": "gadget"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Compass"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": "Shows your position"
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "330": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Diamond"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "331": [
+        {
+            "name": "blockSpawn",
+            "value": "wireOff"
+        },
+        {
+            "name": "blockSpawnSize",
+            "value": 1
+        },
+        {
+            "name": "itemtype",
+            "value": "object"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Redstone dust"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": "Place wire on things"
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "332": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 250
+        },
+        {
+            "name": "name",
+            "value": "Paper"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": "You cannot write things on paper"
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "333": [
+        {
+            "name": "itemtype",
+            "value": "item"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Book"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": "You need a pen to write on the book"
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "334": [
+        {
+            "name": "infoShow",
+            "value": "map"
+        },
+        {
+            "name": "infoShowGUI",
+            "value": true
+        },
+        {
+            "name": "itemtype",
+            "value": "gadget"
+        },
+        {
+            "name": "material",
+            "value": "inorganic"
+        },
+        {
+            "name": "maxStack",
+            "value": 1
+        },
+        {
+            "name": "name",
+            "value": "Map"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": "Shows map of the world"
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "335": [
+        {
+            "name": "blockSpawn",
+            "value": "stem"
+        },
+        {
+            "name": "cropType",
+            "value": "pumpkin"
+        },
+        {
+            "name": "itemtype",
+            "value": "seed"
+        },
+        {
+            "name": "material",
+            "value": "organic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Pumpkin seed"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": "Can be used as slingshot pellet"
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ],
+    "336": [
+        {
+            "name": "blockSpawn",
+            "value": "stem"
+        },
+        {
+            "name": "cropType",
+            "value": "Melon"
+        },
+        {
+            "name": "itemtype",
+            "value": "seed"
+        },
+        {
+            "name": "material",
+            "value": "organic"
+        },
+        {
+            "name": "maxStack",
+            "value": 99
+        },
+        {
+            "name": "name",
+            "value": "Melon seed"
+        },
+        {
+            "name": "nameEditable",
+            "value": false
+        },
+        {
+            "name": "tooltip",
+            "value": ""
+        },
+        {
+            "name": "tooltipEditable",
+            "value": false
+        },
+        {
+            "name": "enchantable",
+            "value": false
+        }
+    ]
+}

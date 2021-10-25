@@ -1,0 +1,10 @@
+0000  Liber Genesis
+0001  In principio creavit Deus caelum et fenestra.
+0002  Fenestra autem erat inanis et vacua, et tenebrae super faciem abyssi, et verbum Dei ferebatur super fenestram.
+0003  Dixitque Deus: "Fiat terrae". Et facta est terrae.
+0004  Et vidit Deus terras quod esset bona et divisit Deus terras ac nihilum.
+0005  Appellavitque Deus terras Bloc et nihilum Aer. Factumque set vespere et mane, dies unus.
+0006  Dixit quoque Deus: "Fiat manus ut locas et demoves Bloc".
+0007  Et [ Page torn ]
+(to add: player's hand (it was once unlimited reach), cursor overlay)
+(inventory)

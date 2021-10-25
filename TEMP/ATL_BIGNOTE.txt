@@ -1,0 +1,19 @@
+to deal with properties:
+
+for x, y, tile in map("Ground"):iterate() do
+	if tile.properties.name == "Green Bush" then
+		map("Ground"):set(x, y, tiles["Brown Bush"])
+	elseif tile.properties.name == "Brown Bush" then
+		map("Ground"):set(x, y, tiles["Green Bush"])
+	end
+end
+
+above code will swap tile named Green Bush and Brown Bush
+
+(tile).properties.[properties name]
+
+
+local greenBush = map("Ground")(0,12)
+local brownBush = map("Ground")(1,13)
+
+greenBush: a tile: in map "Ground", at coord (0,12)

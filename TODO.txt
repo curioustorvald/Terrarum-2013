@@ -1,0 +1,9 @@
+#### TODO ####
+
+1.
+Complete item xml
+
+2.
+Techdemo
+Only Pick and Bricks => Make game demo
+The game will be used for 'Dong-ari project'

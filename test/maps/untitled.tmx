@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="256" height="64" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" source="terram.tsx"/>
+ <layer name="Wall" width="256" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt1kFOwzAURdGujA0gsf/lMK0sQpwm8fuxz5XOhAlN6md4vSRJkiRJkiRJkiRJkiRJkiRJkiRJktbuqyFp/trduwekNdrbvv1Lc9azfXeAVmuVTbTP8/3Hz2Z5VmmrI38HZ7oT2u2/e/JzqUbVt3Tl7q92d/9tf+sekN570gbSe04//3u929/6X8BdsGZPOv/p7VZ6F209m++5A5J3mMb0lDN/9nd9somz20htKvmcypXc8ic7q/I5qnzmK7Z01bOnz9Ho93Zl6ecfoeIZu2vzya0c7a73kD5v1FDtTKU2P/K5jzT6naTPI/cadXbSm0zb+x56q/Yu0+eXGlvn/F72muU7TO9gRunvlPMb2Mv3fO792iHV9N4BzhbMy/5hbVt3gP8tYR0/DduHdbT7T38eYCzbBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJjfL4ka8f4=
+  </data>
+ </layer>
+ <layer name="PlayerPlacedWall" width="256" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt1EENADAMA7FgGJ7xx1UI+be2dBCSBAAAAAAAAAAAAAAAAAAAIPklYC/7h7va/n0A7GX/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0T9LZBlpnGfk=
+  </data>
+ </layer>
+ <layer name="World" width="256" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztnEFu2zAQABdpcrQPBnzN2R/IQ9In9MF9UxEkRJgtKZEixaW0M8AcIqgtZXMoiQEqAgAeuVkPAADMoH8Av9A/gF/oH8Av9A/gF/oH8Av9j+ctEsAS+h/PR/d3oX+wh/7HEu77d+EZAOyh/7HQP8wE/dtwtx4AgNC/FfQPM0D/43mVz/4fXwJYYdn/S6FHJ1zDVT57f1ayBoAV1v0H3r9+fl8452jEY4+7/6UMxwFGM0v/LefMRmrMqe61PAfAaGbv//fuo+hH7npK2g/PAQAjmb3/P7uPop2169CdPyWOBQFq0fvID3XsobzI917UyP71vlfp/p/+c7PcJ0vfTXT7sfQPJeiGgx8dp/oodUT/uX2vFluuuXUdqdmTiK9bt59aB8LvA9gL8Iu+b6/N4ZaOevffe3x7W7MG1O5FlrafWgPi9Sle68PPl+jfYa04B+F7HdlPa/9Han1pDVh6Htj6O4iS5tfeB2qeY8I7HeuBLfoZPRy7Zo7re/zIuV/bf2vvW5rItWGxFtQw8jpz7zV6zoV5F+8BSeIcPV9jLgvnSuJ8K+L9rlR/+jMRyV+TqL9LJP93bnkP7T2PS+fabedxtvQ+y1qwhWfj6+y1P9KibknkZ0Op7kT+7+mqzrtKfl2Lj1td94i52auv24Rjmm1N2LIG7PU5jJxbvdZPDx2Ottd86tW/VfOjWqpdA0Z/JtbzEfd1r3mj+7du0tql76BmDZjts7Sev2jfeq5/67k5oy1rQK93f2utOzij1t+plv7rG1hjxu95VunQVvovs/QZ4Cz3fvQh/de59gzAvQWPJP3Xm1sDeLbEo0n/2/2rpH08mvS/Xd2/9XgQa6X/Nmkfjyz9I/qV/hH9Sv+IfqV/RL/SP6Jf6R/Rr/SP6Ff6R/Qr/SP6lf4R/Ur/iH6lf0S/0j+iX+kf0a/0f25zWI8L55D+z2cN1mNFW+n/XOr/k2hN6/GirfR/PukfS6X/c0r3WCL9I/qV/hH9Sv+IfqV/RL/SP6Jf6R/Rr/SP6Ff6R/TrDRFd+w85qKOI
+  </data>
+ </layer>
+</map>

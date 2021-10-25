@@ -1,0 +1,9 @@
+CODING NOTES
+
+Editing XML: </oXygen> is recommended
+Eclipse settings:
+	Run > External tools > External tools configuration
+	Add program 'Love2D' (non-ascii chr is unacceptable)
+	Location: /Applications/love.app/Contents/MacOS/love
+	Working directory: ${workspace_loc:/Love2DSidescroller}
+	Arguments: ${workspace_loc:/Love2DSidescroller}

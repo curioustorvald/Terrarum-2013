@@ -1,0 +1,82 @@
+2013-01-24 (ISO 8601 Format)
+Sidescroller plan
+
+* Structure of engine
+1. main.lua : load images(quad), some var
+love.draw()
+if condition1 then
+ cond1_draw()
+elseif condition2 then
+ cond2_draw()
+...
+end
+
+bind loadfile with require "something"
+
+2. variables.lua : load variables
+
+3. game.lua : game stuff
+
+* World: save to sub directory
+-- World format --
+Use image file
+Convert image into map table
+
+* Blocks
+Air
+Ice (also have lower friction)
+Wall block (terraria)
+Add properties in Tiled editor
+
+--Block properties
+<tile id="1">
+   <properties>
+    <property name="drop" value="cobbleStone"/>
+    <property name="luminance" value="0"/>
+    <property name="name" value="stone"/>
+    <property name="physics" value="0"/>
+    <property name="resistance" value="300"/>
+    <property name="solid" value="true"/>
+    <property name="tool" value="pick"/>
+    (required Tool tier- 1:wood, 2:stone 3:iron 4:adamantine 5:gold)--Golden tools sucks
+    <property name="transparent" value="false"/>
+    <property name="background" value="false"/>
+    
+    <property name="fluid" value="false"/>
+    (if the block is fluid:)
+    <property name="fluid_density" value="1~16"/>
+    <property name="fluid_spread" value="1~inf"/>
+    <property name="fluid_type" value="water or lava or poison or else"/>
+    (if the block is fluid and (lava or poison) then)
+    <property name="fluid_damage" value="1~inf"/>
+   </properties>
+  </tile>
+
+* Physics
+-- if blocks get more energy than it's durability, then it should break
+-- example
+--- 0.5*2(mass of pick in kg)*v^2(velocity of swinging pick) / 0.001 (pick contact area) = kinetic energy of swinging pick
+--- if object is fallen to block, it should be:
+--- 9.8 (gravitational acceleration)*100(mass in kg)*12(h in blocks unit) / 1 (fully contact with block)
+--- tool contact area = (2feet)^2 / (size of tool's contact area)
+
+* Gamemode
+-- 2 or more?
+--Creative (CREO)
+--Survival (VIVO)
+--Adventure? ()
+
+* Map format
+MUST HAVE EXTRA BEDROCK COLUMN ON RIGHT
+
+* Damage deal/take
+All damage value (in unit Joule I guess) are divided by 100.
+
+Fall damage: 9.8*m*h (apply only if h>6) or 0.5*m*(ySpeed/fps)^2
+Damage dealt by weapon: 0.5*m*v^2/(contact area*sharpness^-1) * (mining only: tool multiplier)
+
+Potion dose: use Kleiber's law
+
+local scale = math.ceil(baseHealth*p.scale^(3) ) / math.ceil(baseHealth*p.scale^(3)*p.scale^(0.75) )
+
+potion effect: base effect * p.scale^(3*0.75) or baseeffect

@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset name="Terram" tilewidth="16" tileheight="16">
+ <image source="terrain.png" width="256" height="256"/>
+ <tile id="0">
+  <properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="****"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="****"/><property name="physics" value="false"/><property name="resistance" value="***"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+ </tile>
+ <tile id="1">
+  <properties><property name="background" value="false"/><property name="drop" value="Cobblestone"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Stone"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+ </tile>
+ <tile id="2">
+  <properties><property name="background" value="false"/><property name="drop" value="Dirt"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Dirt"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+ </tile>
+ <tile id="3">
+  <properties><property name="background" value="false"/><property name="drop" value="Dirt"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Grass"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+ </tile>
+ <tile id="4">
+  <properties><property name="background" value="false"/><property name="drop" value="Wood block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Wood block"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="axe"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+ </tile>
+ <tile id="5">
+  <properties><property name="background" value="false"/><property name="drop" value="doubleSlab"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="doubleSlab"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+ </tile>
+ <tile id="7">
+  <properties><property name="background" value="false"/><property name="drop" value="Bricks"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Bricks"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+ </tile>
+ <tile id="8"><properties><property name="background" value="false"/><property name="drop" value="Dynamite box"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Dynamite box"/><property name="physics" value="false"/><property name="resistance" value="0"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="9"><properties><property name="background" value="false"/><property name="drop" value="Workbench"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Workbench"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="false"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="10"><properties><property name="background" value="false"/><property name="drop" value="Furnace"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="FurnaceOn"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="false"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="11"><properties><property name="background" value="false"/><property name="drop" value="Cobweb"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Cobweb"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="12"><properties><property name="background" value="false"/><property name="drop" value="Rose"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Rose"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="13"><properties><property name="background" value="false"/><property name="drop" value="Dandelion"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Dandelion"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="15"><properties><property name="background" value="false"/><property name="drop" value="Oak sapling"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Oak sapling"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="16"><properties><property name="background" value="false"/><property name="drop" value="Cobblestone"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Cobblestone"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="17"><properties><property name="background" value="false"/><property name="drop" value="0"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Bedrock"/><property name="physics" value="false"/><property name="resistance" value="2147483647"/><property name="solid" value="true"/><property name="tool" value="none"/><property name="toolTier" value="15"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="18"><properties><property name="background" value="false"/><property name="drop" value="Sand"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Sand"/><property name="physics" value="true"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="19"><properties><property name="background" value="false"/><property name="drop" value="Gravel"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Gravel"/><property name="physics" value="true"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="20"><properties><property name="background" value="false"/><property name="drop" value="Wood"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Wood"/><property name="physics" value="false"/><property name="resistance" value="100"/><property name="solid" value="false"/><property name="tool" value="axe"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="22"><properties><property name="background" value="false"/><property name="drop" value="Iron block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Iron block"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="2"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="23"><properties><property name="background" value="false"/><property name="drop" value="Gold block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Gold block"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="2"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="24"><properties><property name="background" value="false"/><property name="drop" value="Diamond gadget"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="6"/><property name="name" value="Diamond gadget"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="3"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="25"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Emerald block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Emerald block"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="2"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="26"><properties><property name="background" value="false"/><property name="drop" value="Furnace"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Furnace"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="false"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="28"><properties><property name="background" value="false"/><property name="drop" value="Red mushroom"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Red mushroom"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="29"><properties><property name="background" value="false"/><property name="drop" value="Brown mushroom"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Brown mushroom"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="30"><properties><property name="background" value="false"/><property name="drop" value="Jungle sapling"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Jungle sapling"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="32"><properties><property name="background" value="false"/><property name="drop" value="Gold ore"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Gold ore"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="2"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="33"><properties><property name="background" value="false"/><property name="drop" value="Iron ore"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Iron ore"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="34"><properties><property name="background" value="false"/><property name="drop" value="Coal"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Coal ore"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="35"><properties><property name="background" value="false"/><property name="drop" value="Bookshelf"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Bookshelf"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="36"><properties><property name="background" value="false"/><property name="drop" value="Mossy cobblestone"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Mossy cobblestone"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="37"><properties><property name="background" value="false"/><property name="drop" value="Obsidian"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Obsidian"/><property name="physics" value="false"/><property name="resistance" value="20"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="3"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="39"><properties><property name="background" value="false"/><property name="drop" value="0"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Tall grass"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="40"><properties><property name="background" value="false"/><property name="drop" value="Mycelium"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Mycelium"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="42"><properties><property name="background" value="false"/><property name="drop" value="Chest"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Chest"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="43"><properties><property name="background" value="false"/><property name="drop" value="0"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Filled chest"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="none"/><property name="toolTier" value="15"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="44">
+  <properties>
+   <property name="name" value="largeChestRight"/>
+  </properties>
+ </tile>
+ <tile id="46">
+  <properties>
+   <property name="name" value="dispenser"/>
+  </properties>
+ </tile>
+ <tile id="48">
+  <properties>
+   <property name="name" value="sponge"/>
+  </properties>
+ </tile>
+ <tile id="49"><properties><property name="background" value="false"/><property name="drop" value="none"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Glass"/><property name="physics" value="false"/><property name="resistance" value="20"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="50"><properties><property name="background" value="false"/><property name="drop" value="Diamond ore"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Diamond ore"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="3"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="51"><properties><property name="background" value="false"/><property name="drop" value="Redstone ore"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="4"/><property name="name" value="Redstone ore"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="2"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="52"><properties><property name="background" value="false"/><property name="drop" value="none"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Leaves"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="54"><properties><property name="background" value="false"/><property name="drop" value="Stone brick"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Stone brick"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="2"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="55"><properties><property name="background" value="false"/><property name="drop" value="none"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Cacti"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="56"><properties><property name="background" value="false"/><property name="drop" value="none"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Fern"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/></properties>
+  
+ </tile>
+ <tile id="57"><properties><property name="background" value="false"/><property name="drop" value="Jukebox"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Jukebox"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="58"><properties><property name="background" value="false"/><property name="drop" value="Wooden controlbox"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="8"/><property name="name" value="Wooden controlbox"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="59"><properties><property name="background" value="true"/><property name="drop" value="Wood block wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Wood block wall"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+ <tile id="60">
+  <properties>
+   <property name="background" value="true"/>
+   <property name="drop" value="Spruce wood block wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Spruce wood block wall"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+ </tile>
+ <tile id="61"><properties>
+   <property name="background" value="true"/>
+   <property name="drop" value="Dirt wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Dirt wall"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="62"><properties>
+   <property name="background" value="true"/>
+   <property name="drop" value="Sandstone wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Sandstone wall"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="63"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Spruce sapling"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Spruce sapling"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="64"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="66"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Snow block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Snow block"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="67"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="none"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Ice"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="68"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Dirt"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Snowy grass"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="70"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Cactus"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Cactus"/><property name="physics" value="false"/><property name="resistance" value="100"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="72"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Clay"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Clay"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="73"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Reed"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Reed"/><property name="physics" value="false"/><property name="resistance" value="100"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="74"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Stone wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Stone wall"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="75"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Birch wood block wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Birch wood block wall"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="76"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Jungle wood block wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Jungle wood block wall"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="77"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Cobblestone wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Cobblestone wall"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="78"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Smooth sandstone wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Smooth sandstone wall"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="79"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Birch sapling"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Birch sapling"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="80"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Torch"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="14"/><property name="name" value="Torch"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="81"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Wooden door"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="doorTop"/><property name="physics" value="false"/><property name="resistance" value="100"/><property name="solid" value="false"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="82"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Iron door"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="ironDoorTop"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="false"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="83">
+  <properties>
+   <property name="name" value="ladder"/>
+  </properties>
+ </tile>
+ <tile id="85"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Iron bar"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Iron bar"/><property name="physics" value="false"/><property name="resistance" value="100"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="88">
+  <properties>
+   <property name="name" value="wheat0"/>
+  </properties>
+ </tile>
+ <tile id="89">
+  <properties>
+   <property name="name" value="wheat1"/>
+  </properties>
+ </tile>
+ <tile id="90">
+  <properties>
+   <property name="name" value="wheat2"/>
+  </properties>
+ </tile>
+ <tile id="91">
+  <properties>
+   <property name="name" value="wheat3"/>
+  </properties>
+ </tile>
+ <tile id="92">
+  <properties>
+   <property name="name" value="wheat4"/>
+  </properties>
+ </tile>
+ <tile id="93">
+  <properties>
+   <property name="name" value="wheat5"/>
+  </properties>
+ </tile>
+ <tile id="94">
+  <properties>
+   <property name="name" value="wheat6"/>
+  </properties>
+ </tile>
+ <tile id="95">
+  <properties>
+   <property name="name" value="wheat7"/>
+  </properties>
+ </tile>
+ <tile id="97"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Door"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="doorBottom"/><property name="physics" value="false"/><property name="resistance" value="100"/><property name="solid" value="false"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="98"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Iron door"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="ironDoorBottom"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="false"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="99"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Redstone torch"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="8"/><property name="name" value="Redstone torch"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="100"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Mossy stone brick"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Mossy stone brick"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="101"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Cracked stone brick"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Cracked stone brick"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="103"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Hellstone"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Hellstone"/><property name="physics" value="false"/><property name="resistance" value="100"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="104">
+  <properties>
+   <property name="name" value="dirtNether"/>
+  </properties>
+ </tile>
+ <tile id="105"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Glowstone"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="15"/><property name="name" value="Glowstone"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="109"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Stone gadget"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Stone gadget"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="false"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="110">
+  <properties>
+   <property name="background" value="true"/>
+   <property name="name" value="wallDoubleSlab"/>
+  </properties>
+ </tile>
+ <tile id="111"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="none"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="stem"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="113"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Black wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Black wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="114"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Grey wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Grey wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="115"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Redstone torch"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="redTorchOff"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="116"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Spruce wood"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Spruce wood"/><property name="physics" value="false"/><property name="resistance" value="100"/><property name="solid" value="false"/><property name="tool" value="axe"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="117"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Birch wood"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Birch wood"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="axe"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="118"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Pumpkin"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Pumpkin"/><property name="physics" value="false"/><property name="resistance" value="100"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="119"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Carved pumpkin"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Carved pumpkin"/><property name="physics" value="false"/><property name="resistance" value="100"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="120"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Jack O' Lantern"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Jack O' Lantern"/><property name="physics" value="false"/><property name="resistance" value="100"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="121"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="none"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Cake"/><property name="physics" value="true"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="122"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="none"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="cakeEaten"/><property name="physics" value="true"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="125"><properties>
+   <property name="background" value="true"/>
+   <property name="drop" value="Bricks wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Bricks wall"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="126"><properties>
+   <property name="background" value="true"/>
+   <property name="drop" value="Iron block wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Iron block wall"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="127"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="none"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="stemMature"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="false"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="129"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Red wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Red wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="130"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Pink wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Pink wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="141">
+  <properties>
+   <property name="background" value="true"/>
+   <property name="name" value="wallDiamondBlock"/>
+  </properties>
+ </tile>
+ <tile id="142"><properties>
+   <property name="background" value="true"/>
+   <property name="drop" value="Gold block wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Gold block wall"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="145"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Green wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Green wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="146"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Lime wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Lime wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="157"><properties>
+   <property name="background" value="true"/>
+   <property name="drop" value="Emerald block wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Emerald block wall"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="2"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="158"><properties>
+   <property name="background" value="true"/>
+   <property name="drop" value="Stone brick wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Stone brick wall"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="161"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Brown wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Brown wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="162"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Yellow wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Yellow wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="171"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Emerald ore"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Emerald ore"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="2"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="173"><properties>
+   <property name="background" value="true"/>
+   <property name="drop" value="Mossy stone brick wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Mossy stone brick wall"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="174"><properties>
+   <property name="background" value="true"/>
+   <property name="drop" value="Chiseled stome brick wall"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Chiseled stone brick wall"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="175"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Moonstone"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Moonstone"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="3"/><property name="toolTip" value="Maybe bad for your health"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile><tile id="176"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Smooth sandstone"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Smooth sandstone"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties></tile>
+ <tile id="177"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Blue wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Blue wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile><tile id="178"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Light blue wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Light blue wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties></tile>
+ <tile id="187"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Vending machine"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="8"/><property name="name" value="vendingMachineTop"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="false"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties></tile><tile id="188"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Vending machine"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="8"/><property name="name" value="vendingMachineBottom"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="false"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties></tile>
+ 
+ 
+ <tile id="189">
+  <properties>
+   <property name="background" value="true"/>
+   <property name="name" value="wallSandstoneChiseled1"/>
+  </properties>
+ </tile>
+ <tile id="190">
+  <properties>
+   <property name="background" value="true"/>
+   <property name="name" value="wallStonebrickChiseled2"/>
+  </properties>
+ </tile><tile id="192"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Sandstone"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Sandstone"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties></tile>
+ <tile id="193"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Purple wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Purple wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="194"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Magenta wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Magenta wool"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile><tile id="197"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Electronic control box"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="8"/><property name="name" value="Electronic control box"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties></tile>
+ <tile id="198"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Spruce wood block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Spruce wood block"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="axe"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="199"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Jungle wood block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Jungle wood block"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="axe"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="205"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="none"/><property name="fluid" value="true"/><property name="fluidDensity" value="1"/><property name="luminance" value="0"/><property name="name" value="Water"/><property name="physics" value="true"/><property name="resistance" value="500"/><property name="solid" value="false"/><property name="tool" value="none"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="209"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Cyan wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Cyan wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="210"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Orange wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Orange wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="211"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Glowstone lamp"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Glowstone lamp"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="2"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="212"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Glowstone lamp"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="15"/><property name="name" value="glowstoneLampOn"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="2"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="213"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Chiseled stone brick"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Chiseled stone brick"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="214"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Birch wood block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Birch wood block"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="axe"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="215"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Mithril anvil"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Mithril anvil"/><property name="physics" value="true"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="3"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="216"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Wooden door"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="woodenDoorClosedTop"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="217"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Iron door"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="ironDoorClosedTop"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile><tile id="218"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Copper ore"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Copper ore"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties></tile><tile id="219"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Adamantite"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Adamantite"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="5"/><property name="transparent" value="false"/>
+  </properties></tile><tile id="220"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Mithril ore"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Mithril ore"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="4"/><property name="transparent" value="false"/>
+  </properties></tile><tile id="221"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Cobaltite"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Cobaltite"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="any"/><property name="toolTier" value="3"/><property name="transparent" value="false"/>
+  </properties></tile>
+ <tile id="224"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Hellstone brick"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Hellstone brick"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="3"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="225"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Light grey wool"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Light grey wool"/><property name="physics" value="false"/><property name="resistance" value="25"/><property name="solid" value="true"/><property name="tool" value="sword"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile>
+ <tile id="229">
+  <properties>
+   <property name="name" value="sandstoneChiseled1"/>
+  </properties>
+ </tile>
+ <tile id="230">
+  <properties>
+   <property name="name" value="sandstoneChiseled2"/>
+  </properties>
+ </tile>
+ <tile id="231"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Anvil"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Anvil"/><property name="physics" value="true"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="2"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="232"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Wooden door"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="woodenDoorClosedBottom"/><property name="physics" value="false"/><property name="resistance" value="150"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="true"/>
+  </properties>
+  
+ </tile>
+ <tile id="233"><properties>
+   <property name="background" value="false"/>
+   <property name="drop" value="Iron door"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="ironDoorClosedBottom"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="hammer"/><property name="toolTier" value="1"/><property name="transparent" value="false"/>
+  </properties>
+  
+ </tile><tile id="234"><properties><property name="background" value="false"/><property name="drop" value="Copper block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Copper block"/><property name="physics" value="false"/><property name="resistance" value="300"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="1"/><property name="transparent" value="false"/></properties></tile><tile id="235"><properties><property name="background" value="false"/><property name="drop" value="Adamantine block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Adamantine block"/><property name="physics" value="false"/><property name="resistance" value="2000"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="6"/><property name="transparent" value="false"/></properties></tile><tile id="236"><properties><property name="background" value="false"/><property name="drop" value="Mithril block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Mithril block"/><property name="physics" value="false"/><property name="resistance" value="650"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="5"/><property name="transparent" value="false"/></properties></tile>
+ <tile id="237"><properties><property name="background" value="false"/><property name="drop" value="Cobalt block"/><property name="fluid" value="false"/><property name="fluidDensity" value="0"/><property name="luminance" value="0"/><property name="name" value="Cobalt block"/><property name="physics" value="false"/><property name="resistance" value="500"/><property name="solid" value="true"/><property name="tool" value="pick"/><property name="toolTier" value="4"/><property name="transparent" value="false"/></properties>
+  
+ </tile>
+</tileset>

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset name="Res" tilewidth="16" tileheight="16">
+ <image source="item.png" width="256" height="256"/>
+ <tile id="512">
+  <properties>
+   
+   <property name="itemtype" value="****"/><property name="material" value="****"/><property name="maxStack" value="250"/><property name="name" value="****"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile>
+ <tile id="256"><properties>
+   
+   <property name="defencePoint" value="1"/><property name="itemtype" value="armour"/><property name="material" value="copper"/><property name="maxStack" value="1"/><property name="name" value="Copper helmet"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties>
+  
+ </tile><tile id="257"><properties>
+   
+   <property name="defencePoint" value="2"/><property name="itemtype" value="armour"/><property name="material" value="iron"/><property name="maxStack" value="1"/><property name="name" value="Iron helmet"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="258"><properties>
+   
+   <property name="defencePoint" value="4"/><property name="itemtype" value="armour"/><property name="material" value="cobalt"/><property name="maxStack" value="1"/><property name="name" value="Cobalt helmet"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="259"><properties>
+   
+   <property name="defencePoint" value="8"/><property name="itemtype" value="armour"/><property name="material" value="mithril"/><property name="maxStack" value="1"/><property name="name" value="Mithril helmet"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="260"><properties>
+   
+   <property name="defencePoint" value="16"/><property name="itemtype" value="armour"/><property name="material" value="adamantine"/><property name="maxStack" value="1"/><property name="name" value="Adamantine helmet"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="261"><properties>
+   
+   <property name="defencePoint" value="2"/><property name="itemtype" value="armour"/><property name="material" value="copper"/><property name="maxStack" value="1"/><property name="name" value="Copper breastplate"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties>
+  
+ </tile><tile id="262"><properties>
+   
+   <property name="defencePoint" value="4"/><property name="itemtype" value="armour"/><property name="material" value="iron"/><property name="maxStack" value="1"/><property name="name" value="Iron breastplate"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="263"><properties>
+   
+   <property name="defencePoint" value="8"/><property name="itemtype" value="armour"/><property name="material" value="cobalt"/><property name="maxStack" value="1"/><property name="name" value="Cobalt breastplate"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="264"><properties>
+   
+   <property name="defencePoint" value="16"/><property name="itemtype" value="armour"/><property name="material" value="mithril"/><property name="maxStack" value="1"/><property name="name" value="Mithril chainmail"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="265"><properties>
+   
+   <property name="defencePoint" value="32"/><property name="itemtype" value="armour"/><property name="material" value="adamantine"/><property name="maxStack" value="1"/><property name="name" value="Adamantine breastplate"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="266"><properties>
+   
+   <property name="defencePoint" value="1"/><property name="itemtype" value="armour"/><property name="material" value="copper"/><property name="maxStack" value="1"/><property name="name" value="Copper greaves"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties>
+  
+ </tile><tile id="267"><properties>
+   
+   <property name="defencePoint" value="2"/><property name="itemtype" value="armour"/><property name="material" value="iron"/><property name="maxStack" value="1"/><property name="name" value="Iron greaves"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="268"><properties>
+   
+   <property name="defencePoint" value="4"/><property name="itemtype" value="armour"/><property name="material" value="cobalt"/><property name="maxStack" value="1"/><property name="name" value="Cobalt greaves"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="269"><properties>
+   
+   <property name="defencePoint" value="8"/><property name="itemtype" value="armour"/><property name="material" value="mithril"/><property name="maxStack" value="1"/><property name="name" value="Mithril greaves"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="270"><properties>
+   
+   <property name="defencePoint" value="16"/><property name="itemtype" value="armour"/><property name="material" value="adamantine"/><property name="maxStack" value="1"/><property name="name" value="Adamantine greaves"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="271"><properties>
+   
+   <property name="itemtype" value="sword"/><property name="material" value="copper"/><property name="maxStack" value="1"/><property name="name" value="Copper broadsword"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="272"><properties>
+   
+   <property name="itemtype" value="hammer"/><property name="material" value="copper"/><property name="maxStack" value="1"/><property name="name" value="Copper hammer"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="273"><properties>
+   
+   <property name="itemtype" value="pick"/><property name="material" value="copper"/><property name="maxStack" value="1"/><property name="name" value="Copper pick"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="274"><properties>
+   
+   <property name="itemtype" value="axe"/><property name="material" value="copper"/><property name="maxStack" value="1"/><property name="name" value="Copper axe"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="275"><properties>
+   
+   <property name="itemtype" value="hoe"/><property name="material" value="copper"/><property name="maxStack" value="1"/><property name="name" value="Copper hoe"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="276"><properties>
+   
+   <property name="itemtype" value="sword"/><property name="material" value="iron"/><property name="maxStack" value="1"/><property name="name" value="Iron broadsword"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="277"><properties>
+   
+   <property name="itemtype" value="hammer"/><property name="material" value="iron"/><property name="maxStack" value="1"/><property name="name" value="Iron broadsword"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="278"><properties>
+   
+   <property name="itemtype" value="pick"/><property name="material" value="iron"/><property name="maxStack" value="1"/><property name="name" value="Iron pick"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="279"><properties>
+   
+   <property name="itemtype" value="axe"/><property name="material" value="iron"/><property name="maxStack" value="1"/><property name="name" value="Iron axe"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="280"><properties>
+   
+   <property name="itemtype" value="hoe"/><property name="material" value="iron"/><property name="maxStack" value="1"/><property name="name" value="Iron hoe"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="281"><properties>
+   
+   <property name="itemtype" value="sword"/><property name="material" value="steel"/><property name="maxStack" value="1"/><property name="name" value="Steel broadsword"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="282"><properties>
+   
+   <property name="itemtype" value="hammer"/><property name="material" value="steel"/><property name="maxStack" value="1"/><property name="name" value="Steep hammer"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="283"><properties>
+   
+   <property name="itemtype" value="pick"/><property name="material" value="steel"/><property name="maxStack" value="1"/><property name="name" value="Steel pick"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="284"><properties>
+   
+   <property name="itemtype" value="axe"/><property name="material" value="steel"/><property name="maxStack" value="1"/><property name="name" value="Steel axe"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="285"><properties>
+   
+   <property name="itemtype" value="hoe"/><property name="material" value="steel"/><property name="maxStack" value="1"/><property name="name" value="Steel hoe"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="true"/>
+  </properties></tile><tile id="286"><properties>
+   
+   <property name="itemtype" value="pick"/><property name="material" value="cobalt"/><property name="maxStack" value="1"/><property name="name" value="Cobalt drill"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="287"><properties>
+   
+   <property name="itemtype" value="saw"/><property name="material" value="cobalt"/><property name="maxStack" value="1"/><property name="name" value="Cobalt chainsaw"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="288"><properties>
+   
+   <property name="itemtype" value="pick"/><property name="material" value="mithril"/><property name="maxStack" value="1"/><property name="name" value="Mithril drill"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="289"><properties>
+   
+   <property name="itemtype" value="saw"/><property name="material" value="mithril"/><property name="maxStack" value="1"/><property name="name" value="Mithril chainsaw"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="290"><properties>
+   
+   <property name="itemtype" value="pick"/><property name="material" value="adamantine"/><property name="maxStack" value="1"/><property name="name" value="Adamantine drill"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="291"><properties>
+   
+   <property name="itemtype" value="saw"/><property name="material" value="adamantine"/><property name="maxStack" value="1"/><property name="name" value="Adamantine chainsaw"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="292"><properties>
+   
+   <property name="currencyTier" value="1"/><property name="itemtype" value="currency"/><property name="material" value="copper"/><property name="maxStack" value="100"/><property name="name" value="Copper coin"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="293"><properties>
+   
+   <property name="currencyTier" value="2"/><property name="itemtype" value="currency"/><property name="material" value="iron"/><property name="maxStack" value="100"/><property name="name" value="Iron coin"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="294"><properties>
+   
+   <property name="currencyTier" value="3"/><property name="itemtype" value="currency"/><property name="material" value="silver"/><property name="maxStack" value="100"/><property name="name" value="Silver coin"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="295"><properties>
+   
+   <property name="currencyTier" value="4"/><property name="itemtype" value="currency"/><property name="material" value="gold"/><property name="maxStack" value="100"/><property name="name" value="Gold coin"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties></tile><tile id="296">
+  <properties>
+   
+   <property name="itemtype" value="inorganic"/><property name="material" value="copper"/><property name="maxStack" value="250"/><property name="name" value="Copper bar"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="296">
+  <properties>
+   
+   <property name="itemtype" value="inorganic"/><property name="material" value="iron"/><property name="maxStack" value="250"/><property name="name" value="Iron bar"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="296">
+  <properties>
+   
+   <property name="itemtype" value="inorganic"/><property name="material" value="silver"/><property name="maxStack" value="250"/><property name="name" value="Silver bar"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="296">
+  <properties>
+   
+   <property name="itemtype" value="inorganic"/><property name="material" value="gold"/><property name="maxStack" value="250"/><property name="name" value="Gold bar"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="296">
+  <properties>
+   
+   <property name="itemtype" value="inorganic"/><property name="material" value="cobalt"/><property name="maxStack" value="250"/><property name="name" value="Cobalt bar"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="296">
+  <properties>
+   
+   <property name="itemtype" value="inorganic"/><property name="material" value="mithril"/><property name="maxStack" value="250"/><property name="name" value="Mithril bar"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="296">
+  <properties>
+   
+   <property name="itemtype" value="inorganic"/><property name="material" value="adamantine"/><property name="maxStack" value="250"/><property name="name" value="Adamantine bar"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="297">
+  <properties>
+   
+   <property name="itemtype" value="igniter"/><property name="material" value="inorganic"/><property name="maxStack" value="1"/><property name="name" value="Firestarter"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="298">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Flint"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="299">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Coal"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="300">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="String"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="301">
+  <properties>
+   
+   <property name="blockSpawn" value="wheat0"/><property name="cropType" value="wheat"/><property name="itemtype" value="seed"/><property name="material" value="organic"/><property name="maxStack" value="250"/><property name="name" value="Wheat seed"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="302">
+  <properties>
+   
+   <property name="itemtype" value="food"/><property name="healthPoint" value="30"/><property name="material" value="organic"/><property name="maxStack" value="99"/><property name="name" value="Apple"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="303">
+  <properties>
+   
+   <property name="itemtype" value="food"/><property name="healthPoint" value="500"/><property name="material" value="organic"/><property name="maxStack" value="99"/><property name="name" value="Golden apple"/><property name="nameEditable" value="true"/><property name="tooltip" value="Haste 4:00\nSwiftness 4:00"/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="304">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="organic"/><property name="maxStack" value="99"/><property name="name" value="Egg"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="305">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Sugar"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="306">
+  <properties>
+   
+   <property name="itemtype" value="ammo"/><property name="material" value="inorganic"/><property name="maxStack" value="250"/><property name="name" value="Snowball"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="307">
+  <properties>
+   
+   <property name="itemtype" value="gun"/><property name="material" value="inorganic"/><property name="maxStack" value="1"/><property name="name" value="Bow"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="true"/>
+  </properties>
+ </tile><tile id="308">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Feather"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="309">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="organic"/><property name="maxStack" value="99"/><property name="name" value="Wheat"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="310">
+  <properties>
+   
+   <property name="blockSpawn" value="Painting"/><property name="blockSpawnSize" value="1"/><property name="itemtype" value="object"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Painting"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="311">
+  <properties>
+   
+   <property name="blockSpawn" value="Reed"/><property name="cropType" value="reed"/><property name="itemtype" value="seed"/><property name="material" value="organic"/><property name="maxStack" value="99"/><property name="name" value="Reed"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="312">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Bone"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="313">
+  <properties>
+   
+   <property name="blockSpawn" value="Cake"/><property name="blockSpawnSize" value="1"/><property name="itemtype" value="object"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Cake"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="314">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Gel"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="315">
+  <properties>
+   
+   <property name="itemtype" value="ammo"/><property name="material" value="inorganic"/><property name="maxStack" value="250"/><property name="name" value="Arrow"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="316">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="1"/><property name="name" value="Quiver"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="317">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Gunpowder"/><property name="nameEditable" value="false"/><property name="tooltip" value="Warning: Gunpowders are very easy to explode."/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="318">
+  <properties>
+   
+   <property name="itemtype" value="food"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Bread"/><property name="nameEditable" value="true"/><property name="tooltip" value=""/><property name="tooltipEditable" value="true"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="319">
+  <properties>
+   
+   <property name="blockSpawn" value="Sign"/><property name="blockSpawnSize" value="1"/><property name="itemtype" value="object"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Sign"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="320">
+  <properties>
+   
+   <property name="blockSpawn" value="doorTop"/><property name="blockSpawnBottom" value="doorBottom"/><property name="blockSpawnSize" value="2"/><property name="itemtype" value="object"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Wooden door"/><property name="nameEditable" value="false"/><property name="tooltip" value="Can be broken by continuous attack"/><property name="tooltipEditable" value="true"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="321">
+  <properties>
+   
+   <property name="blockSpawn" value="ironDoorTop"/><property name="blockSpawnBottom" value="ironDoorBottom"/><property name="blockSpawnSize" value="2"/><property name="itemtype" value="object"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Iron door"/><property name="nameEditable" value="false"/><property name="tooltip" value="Projectiles may pass through"/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="322">
+  <properties>
+   
+   <property name="blockSpawn" value="bedLeft"/><property name="blockSpawnRight" value="bedRight"/><property name="blockSpawnSize" value="2"/><property name="itemtype" value="object"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Bed"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="323">
+  <properties>
+   
+   <property name="infoShow" value="[[%d from %s]],posX,eastWest"/><property name="infoShowGUI" value="false"/><property name="itemtype" value="gadget"/><property name="material" value="inorganic"/><property name="maxStack" value="1"/><property name="name" value="Compass"/><property name="nameEditable" value="false"/><property name="tooltip" value="Shows your position"/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="324">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Diamond"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="325">
+  <properties>
+   
+   <property name="blockSpawn" value="wireOff"/><property name="blockSpawnSize" value="1"/><property name="itemtype" value="object"/><property name="material" value="inorganic"/><property name="maxStack" value="250"/><property name="name" value="Redstone dust"/><property name="nameEditable" value="false"/><property name="tooltip" value="Place wire on things"/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="326">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="250"/><property name="name" value="Paper"/><property name="nameEditable" value="false"/><property name="tooltip" value="You cannot write things on paper"/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="327">
+  <properties>
+   
+   <property name="itemtype" value="item"/><property name="material" value="inorganic"/><property name="maxStack" value="99"/><property name="name" value="Book"/><property name="nameEditable" value="false"/><property name="tooltip" value="You need a pen to write on the book"/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="328">
+  <properties>
+   
+   <property name="infoShow" value="map"/><property name="infoShowGUI" value="true"/><property name="itemtype" value="gadget"/><property name="material" value="inorganic"/><property name="maxStack" value="1"/><property name="name" value="Map"/><property name="nameEditable" value="false"/><property name="tooltip" value="Shows map of the world"/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="329">
+  <properties>
+   
+   <property name="blockSpawn" value="stem"/><property name="cropType" value="pumpkin"/><property name="itemtype" value="seed"/><property name="material" value="organic"/><property name="maxStack" value="99"/><property name="name" value="Pumpkin seed"/><property name="nameEditable" value="false"/><property name="tooltip" value="Can be used as slingshot pellet"/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile><tile id="329">
+  <properties>
+   
+   <property name="blockSpawn" value="stem"/><property name="cropType" value="Melon"/><property name="itemtype" value="seed"/><property name="material" value="organic"/><property name="maxStack" value="99"/><property name="name" value="Melon seed"/><property name="nameEditable" value="false"/><property name="tooltip" value=""/><property name="tooltipEditable" value="false"/><property name="enchantable" value="false"/>
+  </properties>
+ </tile>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</tileset>

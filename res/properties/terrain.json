@@ -1,0 +1,6897 @@
+
+    {
+        "0": [
+            {
+                "name": "backround",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "****"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "****"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": "***"
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "1": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Cobblestone"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Stone"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "2": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Dirt"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Dirt"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "3": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Dirt"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Grass"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "4": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Wood block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Wood block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "axe"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "5": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "doubleSlab"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "doubleSlab"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "7": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Bricks"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Bricks"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "8": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Dynamite box"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Dynamite box"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 0
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "9": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Workbench"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Workbench"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "10": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Furnace"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "FurnaceOn"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "11": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Cobweb"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Cobweb"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "12": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Rose"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Rose"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "13": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Dandelion"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Dandelion"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "15": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Oak sapling"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Oak sapling"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "16": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Cobblestone"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Cobblestone"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "17": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": 0
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Bedrock"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 2147483647
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "none"
+            },
+            {
+                "name": "toolTier",
+                "value": 15
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "18": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Sand"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Sand"
+            },
+            {
+                "name": "physics",
+                "value": true
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "19": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Gravel"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Gravel"
+            },
+            {
+                "name": "physics",
+                "value": true
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "20": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Wood"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Wood"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 100
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "axe"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "22": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Iron block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Iron block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 2
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "23": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Gold block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Gold block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 2
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "24": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Diamond gadget"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 6
+            },
+            {
+                "name": "name",
+                "value": "Diamond gadget"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 3
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "25": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Emerald block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Emerald block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 2
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "26": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Furnace"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Furnace"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "28": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Red mushroom"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Red mushroom"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "29": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Brown mushroom"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Brown mushroom"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "30": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Jungle sapling"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Jungle sapling"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "32": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Gold ore"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Gold ore"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 2
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "33": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Iron ore"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Iron ore"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "34": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Coal"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Coal ore"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "35": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Bookshelf"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Bookshelf"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "36": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Mossy cobblestone"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Mossy cobblestone"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "37": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Obsidian"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Obsidian"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 20
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 3
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "39": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": 0
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Tall grass"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "40": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Mycelium"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Mycelium"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "42": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Chest"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Chest"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "43": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": 0
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Filled chest"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "none"
+            },
+            {
+                "name": "toolTier",
+                "value": 15
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "49": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "none"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Glass"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 20
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "50": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Diamond ore"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Diamond ore"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 3
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "51": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Redstone ore"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 4
+            },
+            {
+                "name": "name",
+                "value": "Redstone ore"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 2
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "52": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "none"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Leaves"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "54": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Stone brick"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Stone brick"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 2
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "55": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "none"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Cacti"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "56": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "none"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Fern"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "57": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Jukebox"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Jukebox"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "58": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Wooden controlbox"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 8
+            },
+            {
+                "name": "name",
+                "value": "Wooden controlbox"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "59": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "drop",
+                "value": "Wood block wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Wood block wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "60": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "drop",
+                "value": "Spruce wood block wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Spruce wood block wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "61": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "drop",
+                "value": "Dirt wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Dirt wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "62": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "drop",
+                "value": "Sandstone wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Sandstone wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "63": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Spruce sapling"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Spruce sapling"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "64": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "66": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Snow block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Snow block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "67": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "none"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Ice"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "68": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Dirt"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Snowy grass"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "70": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Cactus"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Cactus"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 100
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "72": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Clay"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Clay"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "73": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Reed"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Reed"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 100
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "74": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Stone wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Stone wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "75": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Birch wood block wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Birch wood block wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "76": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Jungle wood block wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Jungle wood block wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "77": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Cobblestone wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Cobblestone wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "78": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Smooth sandstone wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Smooth sandstone wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "79": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Birch sapling"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Birch sapling"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "80": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Torch"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 14
+            },
+            {
+                "name": "name",
+                "value": "Torch"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "81": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Wooden door"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "doorTop"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 100
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "82": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Iron door"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "ironDoorTop"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "85": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Iron bar"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Iron bar"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 100
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "97": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Door"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "doorBottom"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 100
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "98": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Iron door"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "ironDoorBottom"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "99": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Redstone torch"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 8
+            },
+            {
+                "name": "name",
+                "value": "Redstone torch"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "100": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Mossy stone brick"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Mossy stone brick"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "101": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Cracked stone brick"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Cracked stone brick"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "103": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Hellstone"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Hellstone"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 100
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "105": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Glowstone"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 15
+            },
+            {
+                "name": "name",
+                "value": "Glowstone"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "109": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Stone gadget"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Stone gadget"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "110": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "name",
+                "value": "wallDoubleSlab"
+            }
+    ],
+        "111": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "none"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "stem"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "113": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Black wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Black wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "114": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Grey wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Grey wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "115": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Redstone torch"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "redTorchOff"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "116": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Spruce wood"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Spruce wood"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 100
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "axe"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "117": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Birch wood"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Birch wood"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "axe"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "118": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Pumpkin"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Pumpkin"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 100
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "119": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Carved pumpkin"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Carved pumpkin"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 100
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "120": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Jack O' Lantern"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Jack O' Lantern"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 100
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "121": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "none"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Cake"
+            },
+            {
+                "name": "physics",
+                "value": true
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "122": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "none"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "cakeEaten"
+            },
+            {
+                "name": "physics",
+                "value": true
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "125": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "drop",
+                "value": "Bricks wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Bricks wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "126": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "drop",
+                "value": "Iron block wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Iron block wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "127": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "none"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "stemMature"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "129": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Red wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Red wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "130": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Pink wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Pink wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "141": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "name",
+                "value": "wallDiamondBlock"
+            }
+    ],
+        "142": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "drop",
+                "value": "Gold block wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Gold block wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "145": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Green wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Green wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "146": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Lime wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Lime wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "157": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "drop",
+                "value": "Emerald block wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Emerald block wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 2
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "158": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "drop",
+                "value": "Stone brick wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Stone brick wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "161": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Brown wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Brown wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "162": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Yellow wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Yellow wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "171": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Emerald ore"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Emerald ore"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 2
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "173": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "drop",
+                "value": "Mossy stone brick wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Mossy stone brick wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "174": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "drop",
+                "value": "Chiseled stome brick wall"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Chiseled stone brick wall"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "175": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Moonstone"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Moonstone"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 3
+            },
+            {
+                "name": "toolTip",
+                "value": "Maybe bad for your health"
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "176": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Smooth sandstone"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Smooth sandstone"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "177": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Blue wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Blue wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "178": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Light blue wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Light blue wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "187": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Vending machine"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 8
+            },
+            {
+                "name": "name",
+                "value": "vendingMachineTop"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "188": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Vending machine"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 8
+            },
+            {
+                "name": "name",
+                "value": "vendingMachineBottom"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "189": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "name",
+                "value": "wallSandstoneChiseled1"
+            }
+    ],
+        "190": [
+            {
+                "name": "background",
+                "value": true
+            },
+            {
+                "name": "name",
+                "value": "wallStonebrickChiseled2"
+            }
+    ],
+        "192": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Sandstone"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Sandstone"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "193": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Purple wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Purple wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "194": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Magenta wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Magenta wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "197": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Electronic control box"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 8
+            },
+            {
+                "name": "name",
+                "value": "Electronic control box"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "198": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Spruce wood block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Spruce wood block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "axe"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "199": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Jungle wood block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Jungle wood block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "axe"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "205": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "none"
+            },
+            {
+                "name": "fluid",
+                "value": true
+            },
+            {
+                "name": "fluidDensity",
+                "value": 1
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Water"
+            },
+            {
+                "name": "physics",
+                "value": true
+            },
+            {
+                "name": "resistance",
+                "value": 500
+            },
+            {
+                "name": "solid",
+                "value": false
+            },
+            {
+                "name": "tool",
+                "value": "none"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "209": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Cyan wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Cyan wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "210": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Orange wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Orange wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "211": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Glowstone lamp"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Glowstone lamp"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 2
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "212": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Glowstone lamp"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 15
+            },
+            {
+                "name": "name",
+                "value": "glowstoneLampOn"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 2
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "213": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Chiseled stone brick"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Chiseled stone brick"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "214": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Birch wood block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Birch wood block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "axe"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "215": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Mithril anvil"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Mithril anvil"
+            },
+            {
+                "name": "physics",
+                "value": true
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 3
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "216": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Wooden door"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "woodenDoorClosedTop"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "217": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Iron door"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "ironDoorClosedTop"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "218": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Copper ore"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Copper ore"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "219": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Adamantite"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Adamantite"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 5
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "220": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Mithril ore"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Mithril ore"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 4
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "221": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Cobaltite"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Cobaltite"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "any"
+            },
+            {
+                "name": "toolTier",
+                "value": 3
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "224": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Hellstone brick"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Hellstone brick"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 3
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "225": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Light grey wool"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Light grey wool"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 25
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "sword"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "231": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Anvil"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Anvil"
+            },
+            {
+                "name": "physics",
+                "value": true
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 2
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "232": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Wooden door"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "woodenDoorClosedBottom"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 150
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": true
+            }
+    ],
+        "233": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Iron door"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "ironDoorClosedBottom"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "hammer"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "234": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Copper block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Copper block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 300
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 1
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "235": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Adamantine block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Adamantine block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 2000
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 6
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "236": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Mithril block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Mithril block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 650
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 5
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+    ],
+        "237": [
+            {
+                "name": "background",
+                "value": false
+            },
+            {
+                "name": "drop",
+                "value": "Cobalt block"
+            },
+            {
+                "name": "fluid",
+                "value": false
+            },
+            {
+                "name": "fluidDensity",
+                "value": 0
+            },
+            {
+                "name": "luminance",
+                "value": 0
+            },
+            {
+                "name": "name",
+                "value": "Cobalt block"
+            },
+            {
+                "name": "physics",
+                "value": false
+            },
+            {
+                "name": "resistance",
+                "value": 500
+            },
+            {
+                "name": "solid",
+                "value": true
+            },
+            {
+                "name": "tool",
+                "value": "pick"
+            },
+            {
+                "name": "toolTier",
+                "value": 4
+            },
+            {
+                "name": "transparent",
+                "value": false
+            }
+        ]
+    }
